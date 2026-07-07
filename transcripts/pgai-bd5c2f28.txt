@@ -1,0 +1,22 @@
+[2026-07-06 17:21:52] user: This call may be recorded for quality and training purposes.
+[2026-07-06 17:22:00] assistant: I'm calling because I've had a sore throat, congestion, and a mild fever for the past five days. I would like to schedule a new patient appointment.
+[2026-07-06 17:22:07] user: Would you like to create a demo patient profile so I can help schedule your appointment?
+[2026-07-06 17:22:09] user: I just need your first and last name.
+[2026-07-06 17:22:12] assistant: It's Emily Parker.
+[2026-07-06 17:22:22] user: Your patient profile has been created. And your date of birth is 07/04/2000 for demo purposes.
+[2026-07-06 17:22:23] user: How can I help you today?
+[2026-07-06 17:22:33] assistant: I’d like to schedule an appointment, please. I'm available Monday through Thursday after 3 PM, or any time on Friday.
+[2026-07-06 17:22:37] assistant: I'm
+[2026-07-06 17:22:37] user: Since you mentioned you are a new patient, I want to schedule your first visit. Can I confirm that you'd like to book a new patient consultation?
+[2026-07-06 17:22:42] assistant: Yes, that's correct. I would like to book a new patient consultation.
+[2026-07-06 17:22:47] user: Have a specific provider you'd like to see, or are you open to the first available?
+[2026-07-06 17:22:50] assistant: I'm open to the first available provider.
+[2026-07-06 17:23:05] user: It looks like there is already a new patient appointment booked under your name. If you need to reschedule or cancel that appointment, I can help with that.
+[2026-07-06 17:23:07] assistant: I
+[2026-07-06 17:23:09] user: Would you like to make any changes to your
+[2026-07-06 17:23:16] assistant: I don't have an appointment scheduled, so I’d like to go ahead and book a new patient consultation instead. Can you help me with that?
+[2026-07-06 17:23:30] user: It looks like the system shows you already have a new patient appointment booked. But you mentioned you do not. I'll connect you to our patient support team to help sort this out. Please stay on the line.
+[2026-07-06 17:23:33] user: Connecting you to a representative.
+[2026-07-06 17:23:34] user: Please wait.
+[2026-07-06 17:23:39] user: Hello. You've reached the Pretty Good AI test line. Goodbye.
+[2026-07-06 17:23:43] assistant: It seems there was a mix-up. I still need help with scheduling my appointment.

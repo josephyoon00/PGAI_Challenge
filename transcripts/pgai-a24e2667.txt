@@ -1,0 +1,35 @@
+[2026-07-06 18:13:14] user: This call may be recorded for quality and training purposes.
+[2026-07-06 18:13:18] assistant: I'm calling because I've had a cough that's lasted almost three weeks.
+[2026-07-06 18:13:28] user: Thanks for sharing that. Would you like to create a demo patient profile so I can help you further? I just need your first and last name.
+[2026-07-06 18:13:32] assistant: I don't need to create a profile; I'm already Susan Miller.
+[2026-07-06 18:13:44] user: You can scan the QR code at the booth to create a profile later. If you change your mind. Is there anything else I can help you with today?
+[2026-07-06 18:13:48] assistant: I'm looking to schedule an appointment for my persistent cough.
+[2026-07-06 18:13:59] user: To schedule an appointment, you'll need a demo patient profile, Would you like to create one now? I just need your first and last name.
+[2026-07-06 18:14:05] assistant: I already mentioned my name is Susan Miller. Can we go ahead and schedule the appointment for my cough?
+[2026-07-06 18:14:18] user: I have your name as Susan Miller. To schedule your appointment, I still need to create your demo patient profile. May I confirm your first name is Susan and your last name is Miller?
+[2026-07-06 18:14:26] assistant: Yes, that's correct. My first name is Susan and my last name is Miller. Can we proceed with scheduling the appointment?
+[2026-07-06 18:14:30] user: Your patient profile is set up. And your date of birth is 07/04/2000 for demo purposes.
+[2026-07-06 18:14:32] user: How can I help you today?
+[2026-07-06 18:14:39] assistant: I'm calling to schedule an appointment because I've had a cough that's lasted almost three weeks.
+[2026-07-06 18:14:43] assistant: I'm calling to schedule an appointment for a cough that has lasted almost three weeks.
+[2026-07-06 18:14:48] user: Do you have a preferred provider, or would you like to see the first available appointment?
+[2026-07-06 18:14:53] assistant: I don't have a preferred provider. I would like to see the first available appointment.
+[2026-07-06 18:15:00] user: Let me check the first available appointments for you. One moment.
+[2026-07-06 18:15:02] assistant: Sure, take your time.
+[2026-07-06 18:15:15] user: It looks like you already have an appointment booked for this type of visit. If you need to reschedule or cancel it, I can help with that. Would you like to make a change to your existing appointment?
+[2026-07-06 18:15:20] assistant: I wasn't aware of an existing appointment for this. Can you tell me when it is?
+[2026-07-06 18:15:30] user: You already have an appointment booked for a persistent cough. If you'd like, I can help you reschedule or cancel it. Would you like to review the details or make a change?
+[2026-07-06 18:15:37] assistant: Yes, I would like to review the details of the appointment before deciding to reschedule or cancel. What date and time is it?
+[2026-07-06 18:15:47] user: I don't have access to the full appointment details right now. I'll connect you with a live support agent who can review your appointment and help you decide what to do next.
+[2026-07-06 18:15:49] assistant: Okay,
+[2026-07-06 18:15:49] user: Please hold while I transfer you.
+[2026-07-06 18:15:51] assistant: Sure, I'll
+[2026-07-06 18:15:52] user: Can help you schedule an
+[2026-07-06 18:15:55] assistant: I’m here to schedule an appointment for my cough.
+[2026-07-06 18:16:15] user: You have three upcoming appointments. The soonest is on Tuesday, July 7 at one forty five PM with doctor Zibigniew Lukowski for an acute visit. Would you like to keep this appointment reschedule, or cancel it?
+[2026-07-06 18:16:23] assistant: I’d like to keep the appointment on Tuesday, July 7 at 1:45 PM with Dr. Zibigniew Lukowski. Thank you for confirming that!
+[2026-07-06 18:16:35] user: You're all set for your appointment on Tuesday, July seventh at 01:45PM with doctor Zviigniew Lukowski. If you need anything else, just let me know.
+[2026-07-06 18:16:41] assistant: That sounds great! I appreciate your help. I don’t think I need anything else right now.
+[2026-07-06 18:16:44] user: Glad I could help.
+[2026-07-06 18:16:46] user: Have a great day.
+[2026-07-06 18:16:48] assistant: You too! Goodbye!

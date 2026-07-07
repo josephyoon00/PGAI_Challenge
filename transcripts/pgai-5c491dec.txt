@@ -1,0 +1,17 @@
+[2026-07-06 16:50:42] user: This call may be recorded for quality and training
+[2026-07-06 16:50:47] assistant: I'm calling because I need a refill for my Lisinopril. I only have three pills left.
+[2026-07-06 16:50:55] user: I can help with your refill request. Would you like to create a demo patient profile so I can get started?
+[2026-07-06 16:50:57] assistant: I
+[2026-07-06 16:50:57] user: I just need your first and last name.
+[2026-07-06 16:51:00] assistant: My name is Robert Chen.
+[2026-07-06 16:51:08] user: Don't see any medications on your chart.
+[2026-07-06 16:51:13] user: That I can refill right now. If you'd like to speak with someone about this, just let me know.
+[2026-07-06 16:51:20] assistant: I understand. I need a refill for my Lisinopril, which I take for high blood pressure. Is there a way to request this refill?
+[2026-07-06 16:51:36] user: I can't process a refill for a lisinopril since it's not listed on your chart. I recommend reaching out to your provider directly, or I can let our clinic support team know so they can follow-up with you. Would you like me to document your request for the team?
+[2026-07-06 16:51:43] assistant: Yes, please document my request for the team. I’d also like to know if a temporary refill is possible while I wait to hear back.
+[2026-07-06 16:51:54] user: I've documented your refill request for lisinopril. Our clinic support team will follow-up with you as soon as they can.
+[2026-07-06 16:51:56] user: Is there anything else I can help you with today?
+[2026-07-06 16:52:00] assistant: No, that will be all for now. Thank you for your help.
+[2026-07-06 16:52:05] user: You're welcome.
+[2026-07-06 16:52:05] user: Have a great day.
+[2026-07-06 16:52:07] assistant: You too.

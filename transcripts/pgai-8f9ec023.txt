@@ -1,0 +1,24 @@
+[2026-07-06 16:40:08] user: This call may be recorded for quality and training purposes.
+[2026-07-06 16:40:14] assistant: I have an appointment next Wednesday at 2 PM, but a work meeting came up. I'd like to reschedule it if possible.
+[2026-07-06 16:40:25] user: I can help with that. Would you like to create a demo patient profile so I can look up your appointment and reschedule it? I just need your first and last name.
+[2026-07-06 16:40:28] assistant: My name is Jessica Brown.
+[2026-07-06 16:40:40] user: Patient profile is set up, and your date of birth is July fourth two thousand. How can I help you today?
+[2026-07-06 16:40:48] assistant: I need to reschedule my appointment that’s on Wednesday at 2 PM. I’d prefer Thursday afternoon, but I could do Friday morning as a backup if that doesn’t work.
+[2026-07-06 16:40:56] assistant: I need to reschedule my appointment that’s set for next Wednesday at 2 PM. I’m available Thursday afternoon or Friday morning if those times work.
+[2026-07-06 16:41:23] user: You have two upcoming appointments. The one you want to reschedule is on Thursday, July 16 at 2PM with doctor Zigniew Lukoski at Nashville. Two two zero Athens Way. Is that correct?
+[2026-07-06 16:41:31] assistant: Actually, my appointment is next Wednesday, not Thursday. It's set for July 12 at 2 PM. Can we reschedule that one?
+[2026-07-06 16:41:51] user: I do not see an appointment for Wednesday, July 12. Your upcoming appointments are on Tuesday, July 7 at 01:45PM. And Thursday, July 16 at 2PM. Could your appointment be on Thursday, July 16 at 2PM? If not, can you double check the date for me?
+[2026-07-06 16:42:01] assistant: Yes, it looks like my appointment is indeed on Thursday, July 16 at 2 PM. I’d like to reschedule that one, preferably to Thursday afternoon if possible.
+[2026-07-06 16:42:21] user: I found openings on Thursday, July sixth sixteenth at 02:30PM or 03:30PM, both at Nashville with doctor Zebignun Lukowski Would either of those times work for you? If not, I can check Friday morning as a backup.
+[2026-07-06 16:42:30] assistant: The 2:30 PM slot on Thursday, July 16 works for me. Can we go ahead and reschedule for that time?
+[2026-07-06 16:42:37] user: Before I reschedule, can you tell me the reason you need to move your appointment?
+[2026-07-06 16:42:41] assistant: I have a work meeting that came up, so I need to reschedule my appointment.
+[2026-07-06 16:43:03] user: You'd like to move your appointment because of a work meeting? Just to confirm, you want to reschedule your Thursday, July 16 appointment at 2PM to Thursday, July 16 at 02:30PM with doctor Zevniew Lukowski at Nashville two two zero Athens Way. Is that correct?
+[2026-07-06 16:43:12] assistant: Yes, that’s correct. I’d like to move my appointment to Thursday, July 16 at 2:30 PM with Dr. Zebignun Lukowski at Nashville.
+[2026-07-06 16:43:29] user: Your appointment has been rescheduled to Thursday, July 16 at 02:30PM with doctor Zibniew Lukowski. You like me to send you a text message with these details?
+[2026-07-06 16:43:34] assistant: Yes, please send me a text message with the details. Thank you!
+[2026-07-06 16:43:44] user: You should get a text with your new appointment details soon. Me know if you need anything else.
+[2026-07-06 16:43:48] assistant: I appreciate your help! That’s all I need for now. Have a great day!
+[2026-07-06 16:43:54] user: Glad I can help.
+[2026-07-06 16:43:54] user: Have a great day.
+[2026-07-06 16:43:56] assistant: You too!

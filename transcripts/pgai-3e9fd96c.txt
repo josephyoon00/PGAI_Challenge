@@ -1,0 +1,14 @@
+[2026-07-06 16:50:45] user: This call may be recorded for quality and training purposes.
+[2026-07-06 16:50:51] assistant: I'm calling because I only have three pills left of my blood pressure medication, Lisinopril, and I need a refill.
+[2026-07-06 16:50:58] user: Would you like to create a demo patient profile so I can help with your refill request?
+[2026-07-06 16:51:00] user: I just need your first and last name.
+[2026-07-06 16:51:03] assistant: My name is Robert Chen.
+[2026-07-06 16:51:13] user: Your patient profile is set up, and your date of birth is July fourth two thousand. How can I help you today?
+[2026-07-06 16:51:22] assistant: Actually, my date of birth is not July 4, 2000. I'm 61 years old, so that would be incorrect. Can we clarify that?
+[2026-07-06 16:51:28] assistant: I need a refill for my Lisinopril. I only have three pills left, and I'm concerned about running out.
+[2026-07-06 16:51:35] user: I don't see any medications on your chart that I can refill right now.
+[2026-07-06 16:51:38] assistant: That’s
+[2026-07-06 16:51:39] user: Would you like me to connect you to our patient support team for more help?
+[2026-07-06 16:51:42] assistant: Yes, please. That would be helpful.
+[2026-07-06 16:51:53] user: Connecting you to a representative. Please wait. Hello. You've reached the Pretty Good AI test line. Goodbye.
+[2026-07-06 16:51:59] assistant: It seems there was a mix-up. Could you please reconnect me to the patient support team?

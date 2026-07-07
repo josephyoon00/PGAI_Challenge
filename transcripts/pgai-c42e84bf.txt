@@ -1,0 +1,24 @@
+[2026-07-06 17:00:47] user: This call may be recorded for quality and training purposes.
+[2026-07-06 17:00:55] assistant: I'm calling because I've had a sore throat, congestion, and a mild fever for the past five days, and I’d like to schedule a new patient appointment.
+[2026-07-06 17:01:05] user: Would you like to create a demo patient profile so I can help you schedule your appointment? I just need your first and last name to get started.
+[2026-07-06 17:01:07] assistant: My name is Emily Parker.
+[2026-07-06 17:01:18] user: Your patient profile is set up. And your date of birth is July fourth two thousand. How can I help you today?
+[2026-07-06 17:01:24] assistant: I’d like to schedule an appointment, please. I'm available Monday through Thursday after 3 PM or any time on Friday.
+[2026-07-06 17:01:29] assistant: I'm
+[2026-07-06 17:01:33] user: Just to confirm, you mentioned you are a new patient and want to be seen for a sore throat congestion, and mild fever. Is this correct?
+[2026-07-06 17:01:36] assistant: Yes, that's correct.
+[2026-07-06 17:01:44] user: Do you have a specific provider you'd like to see, or are you open to the first available?
+[2026-07-06 17:01:49] assistant: I'm open to the first available provider.
+[2026-07-06 17:02:10] user: Let me try fetching the available appointment times again for you.
+[2026-07-06 17:02:11] assistant: Okay, thank you.
+[2026-07-06 17:02:12] user: There are no open
+[2026-07-06 17:02:17] assistant: It seems like the message
+[2026-07-06 17:02:21] user: Would you like me to check for openings later next week? Or would you prefer a callback from the clinic when a slot becomes available?
+[2026-07-06 17:02:24] assistant: Could you please check for openings later next week?
+[2026-07-06 17:02:42] user: I found openings on Tuesday, July 14 with Judy Hauser at Pivot Point Orthopedics. Times available are 3PM, 03:45PM, and 05:15 P. M. Would any of these work for you?
+[2026-07-06 17:02:46] assistant: Yes, I can do the 3 PM appointment with Judy Hauser.
+[2026-07-06 17:03:00] user: Your new patient appointment is set for Tuesday, July 14 at 3PM with doctor Doobie Hauser at Pivot Point Orthopedics.
+[2026-07-06 17:03:09] user: Please bring your photo ID, insurance card, a list of your current medications, and any imaging discs you have. Is there anything else I can help you with today?
+[2026-07-06 17:03:14] assistant: No, that sounds good. I’ll make sure to bring everything you mentioned. Thank you!
+[2026-07-06 17:03:20] user: You're all set for your appointment. Have a great day.
+[2026-07-06 17:03:25] assistant: You too!

@@ -1,0 +1,22 @@
+[2026-07-06 16:32:20] user: This call may be recorded for quality and training purposes.
+[2026-07-06 16:32:28] assistant: I'm calling to schedule a physical checkup. I woke up yesterday with a stiff middle back, and I'd like to set up an appointment for this Saturday.
+[2026-07-06 16:32:38] user: To help you schedule your physical checkup, I'll need to create a demo patient profile for you Can I get your first and last name?
+[2026-07-06 16:32:41] assistant: My name is Walter Sabbath.
+[2026-07-06 16:32:52] user: Your patient profile is set up and your date of birth is July fourth two thousand. How can I help you today?
+[2026-07-06 16:33:02] assistant: Actually, my date of birth is not July 4th, 2000. I'm 37 years old. I just want to confirm that I’m looking to schedule my physical checkup for this Saturday.
+[2026-07-06 16:33:05] assistant: I’d like to schedule a physical checkup for this Saturday.
+[2026-07-06 16:33:17] user: Thanks for clarifying. Just to confirm, you'd like to book a general office visit for a physical checkup this Saturday. Is that correct?
+[2026-07-06 16:33:21] assistant: Yes, that’s correct. I'd like to book the appointment for this Saturday.
+[2026-07-06 16:33:36] user: Looks like you already have a physical checkup appointment booked. If you'd like, I can help you reschedule or cancel your existing appointment. Would you like to do that?
+[2026-07-06 16:33:44] assistant: I wasn't aware of an existing appointment. If it's for this Saturday, I’d like to keep it. If it’s not, I’d prefer to schedule a new one for Saturday.
+[2026-07-06 16:34:10] user: Let me check the details of your existing appointment see if it's scheduled for this Saturday or another date. One moment. While I look into this. I'm unable to view the exact details of your current appointment, but I do know you already have a physical checkup booked I recommend speaking with a live support agent to confirm the date or make changes. Would you like me to transfer you now?
+[2026-07-06 16:34:16] assistant: Yes, please transfer me to a live support agent so I can confirm the date of my appointment.
+[2026-07-06 16:34:26] user: Let me check the available times for a physical checkup this Saturday. One moment.
+[2026-07-06 16:34:28] assistant: Sure, I'll wait.
+[2026-07-06 16:34:41] user: You have two upcoming appointments. But neither is scheduled for this Saturday. Would you like me to book a new physical checkup for this Saturday instead?
+[2026-07-06 16:34:45] assistant: Yes, please go ahead and book a new physical checkup for this Saturday.
+[2026-07-06 16:35:03] user: I'm unable to book a new physical check up since you already have one scheduled. I'll transfer you to a live support agent who can help confirm your appointment date or make changes. Please hold while I connect you.
+[2026-07-06 16:35:06] assistant: Alright, I’ll hold.
+[2026-07-06 16:35:18] user: It looks like I'm unable to book a new physical checkup for this Saturday because you already have similar appointments scheduled. I'll connect you to our clinic support team so they can help confirm or reschedule your appointment. Please stay on the line.
+[2026-07-06 16:35:27] user: Connecting you to a representative. Please wait. Hello. You've reached the Pretty Good AI test line. Goodbye.
+[2026-07-06 16:35:35] assistant: It seems the call got disconnected. Since I couldn't reach anyone, I appreciate your help. I'll try calling back later to sort this out.

@@ -1,0 +1,62 @@
+AI Engineering Challenge - Bug Reports
+(Joseph Yoon)
+
+Bug: 
+    Agent sets up a demo profile for patient, but the agent makes no note or acknowledgement of the new date of birth when the patient gives their acutal date of birth, which is followed up by a reiteration of their need to reschedule their appointment.
+Debug Priority: Medium
+Instance: pgai-3e9fd96c.txt at 0:43-0:58
+Details: 
+    The agent says "Your patient profile is set up, and your date of birth is July fourth two thousand. How can I help you today?"
+    The patient clarifies: "Actually, my date of birth is not July 4, 2000. I'm 61 years old, so that would be incorrect. Can we clarify that?"
+    The patient then follows up the clarification with: "I need a refill for my Lisinopril. I only have three pills left, and I'm concerned about running out." before the agent has a chance to respond to the clarification specifically.
+    The agent instead responds with "I don't see any medications on your chart that I can refill right now." and proceeds to not acknowledge the date of birth change.
+
+
+
+Bug: 
+    Agent transfers a patient looking to get their cough checked, and is told they are going to be transferred to the office. But instead, the patient is met with the Pretty Good AI test line prompt and the call is forcefully terminated.
+Debug Priority: High
+Instance: pgai-e67d5dec.txt at 2:17
+Details:
+    The agent says "Hello. You've reached the Pretty Good AI test line. Goodbye."
+    There is no proper transfer call happening.
+
+
+Bug:
+    Agent transfers a patient looking to get their cough checked, but when they are making the transfer, there is no natural way of confirming the patient's request by saying something along the lines of: "Ok, I'll transfer you over." Instead, a robotic response is given.
+Debug Priority: Low
+Instance: pgai-e67d5dec.txt at 2:12
+Details: 
+    The agent says "I see you want to schedule an appointment for your cough. Would you like to see a doctor or a nurse practitioner, or do you have a preference?"
+    The patient responds saying "I don't have a strong preference. Either a doctor or a nurse practitioner would be fine for-"
+    The agent cuts off the patient in the middle of their sentence, and instead of following up on their choice for a doctor or a nurse practitioner immediately initiates the robotic transfer.
+    And instead of a natural sounding response, the agent instead goes: "Connecting you to a representative. Please wait."
+
+
+Bug:
+    The agent accepts Saturday as a valid day for booking an appointment. 
+Debug Priority: Medium
+Instance: pgai-064f3a8e.txt at 1:30
+Details:
+    Patient initially starts the conversation wanting to book an appointment on Saturday. "Can we go ahead and schedule the appointment for Saturday?"
+    Agent does not let them know valid business hours, and doesn't deny the appointment for Saturday."Just to confirm, you'd like to book a general office visit for a physical checkup this Saturday. Is that correct?"
+
+
+Bug:
+    The agent offers the patient to ask any other questions but immediately ends the call after that, making the whole point of giving the patient the opportunity to ask questions pointless.
+Debug Priority: Medium
+Instance: pgai-3b458d54.txt at 1:55
+Details:
+    Patient asks "I understand, but I really just need to reschedule my appointment. Can you help me with that, or should I just scan the QR code later?"
+    The agent then responds with "You'll need to scan the QR code at the booth later to set up your profile and reschedule your appointment. I'm not able to make changes without a demo patient profile, If you have any other questions, I'm here to help. Otherwise, have a great day."
+    The patient tries to still talk afterwards by saying "Alright, I'll plan to scan the QR code at the booth later to set up my profile and-" but the call is forcefully terminated.
+
+
+Bug:
+    The agent, knowing that they help at Pivot Point Orthopedics, does not tell the patient that they are at the wrong health clinic when they have a sore throat, congestion, and fever, all which pertain more to internal medicine at a bigger hospital, or an ear, nose, throat (ENT) clinic.
+Debug Priority: Low
+Instance: pgai-c42e84bf.txt at 0:12, 1:57
+Details:
+    Patient opens the conversation by stating "I'm calling because I've had a sore throat, congestion, and a mild fever for the past five days, and I’d like to schedule a new patient appointment."
+    The agent does not deny them, nor say they are in the wrong place, but does confirm the call was to Pivot Point Orthopedics, which handle muscles, bones, and physical injuries.
+    "I found openings on Tuesday, July 14 with Judy Hauser at Pivot Point Orthopedics."

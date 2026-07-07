@@ -1,0 +1,36 @@
+[2026-07-06 16:14:45] user: This call may be recorded for quality and training
+[2026-07-06 16:14:52] assistant: I woke up yesterday with a stiff middle back and would like to schedule a physical checkup. Can I book an appointment for this Saturday?
+[2026-07-06 16:15:03] user: I can help with that. Before we schedule your appointment, would you like to create a demo patient profile? Just need your first and last name to get started.
+[2026-07-06 16:15:10] assistant: I already have a profile. My name is Walter Sabbath. Can we go ahead and schedule the appointment for Saturday?
+[2026-07-06 16:15:22] user: Thanks for sharing your name. Walter. I don't see a profile for you yet. So I'll need to create a demo patient profile before booking your appointment.
+[2026-07-06 16:15:27] user: Can I confirm your first name as Walter? And your last name is Sabath?
+[2026-07-06 16:15:34] assistant: It's Walter Sabbath, with a "th" at the end. Can we proceed with creating the profile and scheduling the appointment for Saturday?
+[2026-07-06 16:15:42] user: One moment while I create your profile and check Saturday's availability for a physical checkup.
+[2026-07-06 16:15:44] assistant: Sure, I'll wait.
+[2026-07-06 16:15:50] user: Your patient profile has been created, and your date of birth is listed as 07/04/2000 for demo purposes.
+[2026-07-06 16:15:52] user: How may I help you today?
+[2026-07-06 16:15:57] assistant: I’d like to schedule a physical checkup for this Saturday. Is that available?
+[2026-07-06 16:16:04] assistant: I would like to schedule a physical checkup for this Saturday.
+[2026-07-06 16:16:06] user: Just to confirm, you'd like to book a general office visit for a physical checkup this Saturday. Is that correct?
+[2026-07-06 16:16:08] assistant: Yes, that's correct.
+[2026-07-06 16:16:16] user: It looks like you already have a physical checkup appointment booked.
+[2026-07-06 16:16:20] assistant: I
+[2026-07-06 16:16:20] user: If you'd like, I can help you reschedule or cancel your existing appointment.
+[2026-07-06 16:16:23] user: Would you like to make a change, or do you need help with something else?
+[2026-07-06 16:16:29] assistant: I'd like to reschedule my existing appointment for this Saturday. Can you help with that?
+[2026-07-06 16:16:37] user: I can help with that. Let me check for available times this Saturday to reschedule your physical checkup. One moment.
+[2026-07-06 16:16:39] assistant: Sure, I'll wait.
+[2026-07-06 16:16:40] user: I'm unable to reschedule
+[2026-07-06 16:16:47] assistant: I understand. Thank you for the information. I’ll just keep my existing
+[2026-07-06 16:16:48] user: I'm processing your request to your physical checkup for this Saturday.
+[2026-07-06 16:16:50] user: Please hold on while I take care of it.
+[2026-07-06 16:16:52] assistant: Okay, I'll wait.
+[2026-07-06 16:17:10] user: I've documented your request for a physical checkup this Saturday and sent it to our clinic support team. I'll get back to you as soon as possible to help with scheduling.
+[2026-07-06 16:17:13] user: Is there anything else you'd like to discuss?
+[2026-07-06 16:17:14] user: Are you still there?
+[2026-07-06 16:17:21] assistant: I'm here. Just to clarify, is there anything else I need to do, or can I expect a confirmation soon?
+[2026-07-06 16:17:33] user: You don't need to do anything else right now. The clinic support team will contact you as soon as possible to confirm your new appointment or discuss next steps.
+[2026-07-06 16:17:36] user: If you have any other questions, just let me know.
+[2026-07-06 16:17:41] assistant: I appreciate your help. I'll wait for the confirmation. Have a good day!
+[2026-07-06 16:17:45] user: You too. Take care.
+[2026-07-06 16:17:47] assistant: Thank you, you too!

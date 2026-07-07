@@ -1,0 +1,27 @@
+[2026-07-06 17:00:50] user: This call may be recorded for quality and training purposes.
+[2026-07-06 17:00:58] assistant: I'm calling because I've had a sore throat, congestion, and a mild fever for the past five days, and I would like to schedule a new patient appointment.
+[2026-07-06 17:01:03] user: Help you schedule a new patient appointment.
+[2026-07-06 17:01:06] assistant: Yes,
+[2026-07-06 17:01:08] user: Would you like to create a demo patient profile now I just need your first and last name to get started.
+[2026-07-06 17:01:12] assistant: I'm already a patient, my name is Emily Parker.
+[2026-07-06 17:01:19] user: Thanks for letting me know, Emily. I don't see a patient profile for you yet.
+[2026-07-06 17:01:25] user: Would you like to create a demo patient profile now so I can help schedule your appointment?
+[2026-07-06 17:01:27] user: I just need your first and last name.
+[2026-07-06 17:01:29] assistant: It's Emily Parker.
+[2026-07-06 17:01:39] user: Your patient profile has been created. And your date of birth is July fourth
+[2026-07-06 17:01:39] user: two thousand
+[2026-07-06 17:01:43] user: for demo purposes. How may I help you today?
+[2026-07-06 17:01:50] assistant: I'm looking to schedule an appointment because I've been experiencing a sore throat, congestion, and a mild fever for the past five days.
+[2026-07-06 17:01:58] assistant: I'm looking to schedule a new patient appointment because I've been experiencing a sore throat,
+[2026-07-06 17:01:58] user: Do you have a preferred provider, or would you like to see the first available?
+[2026-07-06 17:02:03] assistant: I don't have a preferred provider, so the first available would be fine.
+[2026-07-06 17:02:16] user: It looks like you already have an appointment scheduled for this type of visit. If you need to reschedule or cancel it, I can help with that. Would you like to make a change to your existing appointment?
+[2026-07-06 17:02:25] assistant: I wasn't aware of an existing appointment. I would like to schedule a new one instead, if possible, since
+[2026-07-06 17:02:31] user: You already have an appointment booked for this concern. If you'd like, I can check the details or help you reschedule or cancel it Would you like to review your current appointment?
+[2026-07-06 17:02:36] assistant: Yes, I would like to review the details of my current appointment, please.
+[2026-07-06 17:02:47] user: Looks like I need to connect you to our patient support team to help with your appointment request. Please stay on the line while I transfer you.
+[2026-07-06 17:02:49] assistant: Okay,
+[2026-07-06 17:02:51] user: Connecting you to a representative. Please wait.
+[2026-07-06 17:02:55] assistant: Sure, I'll
+[2026-07-06 17:02:56] user: Hello. You've reached the Pretty Good AI test line. Goodbye.
+[2026-07-06 17:03:01] assistant: It seems like there was a mix-up. Could you please connect me to someone who can help with my appointment?

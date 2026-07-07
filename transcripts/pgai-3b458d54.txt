@@ -1,0 +1,13 @@
+[2026-07-06 16:40:11] user: This call may be recorded for quality and training purposes.
+[2026-07-06 16:40:16] assistant: I have an appointment next Wednesday at 2 PM, but I need to reschedule because of a work meeting that came up.
+[2026-07-06 16:40:24] user: No problem. Would you like to reschedule for later that same week, or is another week better for you?
+[2026-07-06 16:40:32] assistant: I'd prefer to reschedule for later that same week, if possible. Thursday afternoon would work best for me, and I can do Friday morning as a backup.
+[2026-07-06 16:40:42] user: Let's get you rescheduled. Before I can help, would you like to create a demo patient profile? I just need your first and last name.
+[2026-07-06 16:40:50] assistant: I don’t need to create a demo profile; I already have an appointment under the name Jessica Brown. Can we proceed with rescheduling?
+[2026-07-06 16:41:03] user: Right now, I can only assist if you create a demo patient profile. If you prefer, you can scan the QR code at the booth later to set up your profile.
+[2026-07-06 16:41:06] user: Let me know if you'd like to continue or need anything else.
+[2026-07-06 16:41:12] assistant: I’d really like to reschedule my appointment rather than create a demo profile. Is there a way to do that?
+[2026-07-06 16:41:31] user: At this time, I can only help with rescheduling if you create a demo patient profile. If you'd rather not, you can scan the QR code at the booth later to set up your profile and manage appointments. Let me know if you'd like to create a profile now or if you have any other questions.
+[2026-07-06 16:41:39] assistant: I understand, but I really just need to reschedule my appointment. Can you help me with that, or should I just scan the QR code later?
+[2026-07-06 16:41:56] user: You'll need to scan the QR code at the booth later to set up your profile and reschedule your appointment. I'm not able to make changes without a demo patient profile, If you have any other questions, I'm here to help. Otherwise, have a great day.
+[2026-07-06 16:42:00] assistant: Alright, I'll plan to scan the QR code at the booth later to set up my profile and

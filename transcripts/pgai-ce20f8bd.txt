@@ -1,0 +1,8 @@
+[2026-07-06 16:31:25] user: This call may be recorded for quality and training
+[2026-07-06 16:31:31] assistant: I'm calling to see if you accept United Healthcare insurance, as I need to schedule a routine annual physical.
+[2026-07-06 16:31:41] user: I can help with that. Before we continue, would you like to create a demo patient profile? I just need your first and last name to get started.
+[2026-07-06 16:31:48] assistant: I don't need to create a new profile. My name is Mark Johnson, and I just want to confirm if you accept United Healthcare.
+[2026-07-06 16:32:08] user: You can scan the QR code at the booth to create a profile later if you change your mind. Regarding your question, I'm unable to confirm insurance details without a patient profile. If you'd like, I can connect you to our clinic support team for more information. Would you like to speak with someone now?
+[2026-07-06 16:32:16] assistant: I appreciate it, but I'm just looking to see if you accept United Healthcare. If that requires creating a profile, then I think I’ll need to end the call.
+[2026-07-06 16:32:28] user: Understood. You can check with our staff at the booth or scan the QR code to create a profile and get more details Have a great day.
+[2026-07-06 16:32:31] assistant: Thank you for the information. Have a good day.

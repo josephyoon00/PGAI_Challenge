@@ -1,0 +1,19 @@
+[2026-07-06 16:28:37] user: This call may be recorded for quality and training purposes.
+[2026-07-06 16:28:43] assistant: I'm calling because I've had a cough that's lasted almost three weeks, and I'm hoping to schedule an appointment to get it checked out.
+[2026-07-06 16:28:53] user: I get up with that. Would you like to create a demo patient profile so we can schedule your appointment? I just need your first and last name.
+[2026-07-06 16:28:55] assistant: My name is Susan Miller.
+[2026-07-06 16:29:09] user: Patient profile is set up, and your date of birth is July fourth two thousand for demo purposes. How can I help you today?
+[2026-07-06 16:29:19] assistant: I need to schedule an appointment for my persistent cough that's been going on for almost three weeks. I'm available Tuesday or Wednesday afternoon.
+[2026-07-06 16:29:22] assistant: I’m calling
+[2026-07-06 16:29:29] user: It sounds like you need an appointment for an ongoing cough. Just to confirm, is this visit for an urgent concern, or are you looking for a general visit to discuss your symptoms?
+[2026-07-06 16:29:35] assistant: It's more of a general visit to discuss my symptoms, but I'm concerned since it's been lasting for so long.
+[2026-07-06 16:29:44] user: Understand. You have a preferred provider you'd like to see? Or are you open to the first available?
+[2026-07-06 16:29:47] assistant: I'm open to the first available provider.
+[2026-07-06 16:30:03] user: It looks like you already have an office visit appointment booked. If you'd like, I can help you reschedule or cancel that appointment. Would you like to make a change? Or do you need to speak with someone from the office?
+[2026-07-06 16:30:09] assistant: I wasn’t aware I had an appointment booked. Can you tell me when it is?
+[2026-07-06 16:30:16] user: No problem. I can connect you with someone from the office to review your current appointment and help you with any changes. Would you like me to transfer you now?
+[2026-07-06 16:30:20] assistant: Yes, please. That would be great. Thank you!
+[2026-07-06 16:30:29] user: I see you want to schedule an appointment for your cough. Would you like to see a doctor or a nurse practitioner, or do you have a preference?
+[2026-07-06 16:30:37] assistant: I don't have a strong preference. Either a doctor or a nurse practitioner would be fine for
+[2026-07-06 16:30:43] user: Connecting you to a representative. Please wait. Hello. You've reached the Pretty Good AI test line. Goodbye.
+[2026-07-06 16:30:50] assistant: I’m still here. It seems like there might have been a mix-up. Can I get connected to someone who can help me with my appointment?
